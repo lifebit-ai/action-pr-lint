@@ -1,2 +1,2 @@
-# lifebit-ai-action-pr-lint
+# Action PR lint
 PR linting for common PR issues
